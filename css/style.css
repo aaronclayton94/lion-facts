@@ -1,0 +1,25 @@
+h1 {
+    font-size: 45px;
+    text-align: center;
+    padding: 20px;
+    background: #000000;
+    color: aliceblue;
+}
+
+img {
+}
+
+p {
+    padding: 10px;
+    margin-left: auto;
+    color: blanchedalmond;
+}
+
+body {
+    background: #000;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+}
